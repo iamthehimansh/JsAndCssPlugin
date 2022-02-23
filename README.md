@@ -1,5 +1,5 @@
 # JsAndCssPlugin
-
+## This is Public Repository You Can Contribute here
 ## How To import Js
 - `<script type="text/javascript" src="https://iamthehimansh.github.io/JsAndCssPlugin/js/[filename].js"/>`
 ## How To import Css
